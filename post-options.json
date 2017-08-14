@@ -1,0 +1,9 @@
+{
+    "hostname": "192.168.0.99",
+    "port": 22004,
+    "path": "/chargeServer/backgroundRecharge",
+    "method": "POST",
+    "headers": {
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+    }
+}
